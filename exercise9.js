@@ -1,10 +1,11 @@
 const getSmthng = (a, b) => {
     if (a%b==0){
-        return 'True'
+        return true
     } else {
-        return 'False'
+        return false
     }
 }
 
 
 console.log(getSmthng(10, 2));
+console.log(typeof(getSmthng));

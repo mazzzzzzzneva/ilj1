@@ -1,3 +1,2 @@
-let a = ['fgn', 'wert,.', 'po0ij'];
-a[2] = 'egrdb'
-console.log(a[0]);
+let a = ["koglvd,", "hutejgirdvk", "xuczhisfjk"];
+console.log(a.length);
